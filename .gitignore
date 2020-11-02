@@ -10,5 +10,11 @@ Pipfile.lock
 manage.py
 django_blog/asgi.py
 django_blog/settings.py
-django_blog/urls.py
 django_blog/wsgi.py
+
+# blog app
+
+blog/admin.py
+blog/apps.py
+blog/models.py
+blog/tests.py
