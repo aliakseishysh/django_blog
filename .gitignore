@@ -18,6 +18,7 @@ blog/admin.py
 blog/apps.py
 blog/models.py
 blog/tests.py
+blog/migrations
 
 # databases
 db.sqlite3
