@@ -19,5 +19,12 @@ blog/apps.py
 blog/tests.py
 blog/migrations
 
+# users app
+
+users/admin.py
+users/apps.py
+users/tests.py
+users/migrations
+
 # databases
 db.sqlite3
