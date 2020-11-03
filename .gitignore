@@ -28,3 +28,6 @@ users/migrations
 
 # databases
 db.sqlite3
+
+# static
+media/profile_pics/
